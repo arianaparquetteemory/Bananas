@@ -11,3 +11,4 @@ milk <- bananaindex %>%
     entity == "Oat milk" ~ "plant",
     entity == "Coconut milk" ~ "plant",
     entity == "Cow milk" ~ "cow"))
+
